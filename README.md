@@ -3,12 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash250604&label=Profile%20views&color=0e75b6&style=flat" alt="ash250604" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms with Java, also for WebDev, MERN Stack.**
 
 - 👨‍💻 All of my projects are available at [https://ashutosh250604.github.io/ashutoshrajput-portfolio/](https://ashutosh250604.github.io/ashutoshrajput-portfolio/)
 
 # 💫 About Me:
-Detail-oriented Computer Engineering graduate with hands-on experience in full-stack web development, RESTful APIs, and database design via internships and real-world projects.<br>I am looking to work on Software Developer/Frontend/Backend/Full-Stack roles where I can develop scalable applications and contribute positively to high-impact engineering teams.<br>
+Computer Engineering graduate with hands-on experience in full-stack web development, RESTful APIs, and database design via
+internships and real-world projects. <br>
+I am looking to work on Software Developer/Frontend/Backend/Full-Stack roles where I can
+develop scalable applications and contribute positively to high-impact engineering teams.
+<br>
 
 
 ## 🌐 Socials:
