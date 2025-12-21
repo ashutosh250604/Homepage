@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms with Java, also for WebDev, MERN Stack.**
 
-- 👨‍💻 All of my projects are available at [https://ashutosh250604.github.io/ashutoshrajput-portfolio/](https://ashutosh250604.github.io/ashutoshrajput-portfolio/)
+- 👨‍💻 All of my Featured Projects are available at [https://ashutoshrajput-portfolio.vercel.app/](https://ashutoshrajput-portfolio.vercel.app/)
 
 # 💫 About Me:
 Computer Engineering graduate with hands-on experience in full-stack web development, RESTful APIs, and database design via
